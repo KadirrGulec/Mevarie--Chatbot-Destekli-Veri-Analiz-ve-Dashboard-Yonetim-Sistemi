@@ -1,6 +1,6 @@
 <?php
 // OpenAI API Configuration
-define('OPENAI_API_KEY', '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');
+define('OPENAI_API_KEY', 'Please fill this out.');
 define('OPENAI_API_URL', 'https://api.openai.com/v1/chat/completions');
 define('OPENAI_MODEL', 'gpt-3.5-turbo');
 define('OPENAI_MAX_TOKENS', 1000);
